@@ -8,6 +8,9 @@ This project delivers a comprehensive, end-to-end data analytics solution using 
 * **Data Visualization:** Tableau Public (Interactive Business Dashboard)
 * **Data Inspection:** Microsoft Excel (Initial data quality assessment)
 
+  ## 📊 Dashboard Preview
+![Dashboard Preview](dashboard_screenshot.png)
+
 
 ## 🏗️ Data Architecture & Project Pipeline
 
