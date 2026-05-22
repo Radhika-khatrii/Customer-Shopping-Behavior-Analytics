@@ -9,7 +9,7 @@ This project delivers a comprehensive, end-to-end data analytics solution using 
 * **Data Inspection:** Microsoft Excel (Initial data quality assessment)
 
   ## 📊 Dashboard Preview
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview]()
 
 
 ## 🏗️ Data Architecture & Project Pipeline
